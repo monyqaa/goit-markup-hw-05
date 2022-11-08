@@ -577,6 +577,7 @@ img {
   height: 100%;
   width: 100%;
   background-color: rgba(0, 0, 0, 0.2);
+  transition: transform 0.5s;
 }
 
 .modal {
@@ -608,6 +609,7 @@ img {
   opacity: 0;
   visibility: hidden;
   pointer-events: none;
+  transform: scale(0);
 }
 
 .psr {
