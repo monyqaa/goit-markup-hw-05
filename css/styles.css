@@ -584,6 +584,7 @@ img {
   border-radius: 50%;
   top: 8px;
   right: 8px;
+  padding: 0;
 }
 
 .modal-close-icon {
