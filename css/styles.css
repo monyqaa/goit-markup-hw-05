@@ -439,11 +439,6 @@ header {
   align-items: center;
 }
 
-.twitter-decoration {
-  background: var(--highlight-color);
-  --color1: var(--second-type-color);
-}
-
 .footer-social-link:hover,
 .footer-social-link:focus {
   background: var(--highlight-color);
@@ -462,10 +457,6 @@ header {
 .mail-footer {
   margin-top: 9px;
   margin-bottom: 9px;
-}
-
-.mail-decoration {
-  text-decoration-line: underline;
 }
 
 .portfolio-buttons {
